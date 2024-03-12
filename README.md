@@ -17,21 +17,21 @@ Considering these findings, addressing the Number Field is Required error — wi
 
 ## Business Objective
 
-After analyzing our platform’s metrics and user feedback, we identified that the checkout process had potential pain points. We noticed users abandoning their shopping carts or needing help completing their purchases. Such patterns suggest lost immediate sales and the risk of diminishing customer loyalty in the long run.
+After analyzing the platform’s metrics and user feedback, we identified that the checkout process had potential pain points. We noticed users abandoning their shopping carts or needing help completing their purchases. Such patterns suggest lost immediate sales and the risk of diminishing customer loyalty in the long run.
 
 ### Insight
 
 Focusing on the checkout flow would be strategic and impactful. A smooth and intuitive checkout process is often the final nudge a potential customer needs to convert their interest into a purchase. By refining this process, we aim to address any friction points that might be causing users to abandon their carts or hesitate in finalizing their purchases.
 
-Our primary business objective is to refine and streamline the checkout flow, aiming for a substantial increase in the success rate and a marked reduction in cart abandonment. Achieving this will signify a more efficient and user-friendly checkout process, enhancing user experience and profitability.
+The primary business objective is to refine and streamline the checkout flow, aiming for a substantial increase in the success rate and a marked reduction in cart abandonment. Achieving this will signify a more efficient and user-friendly checkout process, enhancing user experience and profitability.
 
-This objective is about more than just increasing sales in the short term. It’s also building a foundation for long-term customer trust and satisfaction. By enhancing the checkout process, we’re investing in the overall user experience, ensuring that customers find our platform reliable, easy to use, and customer-centric. This, in turn, will not only drive immediate profitability but also foster longer-term customer loyalty.
+This objective is about more than just increasing sales in the short term. It’s also building a foundation for long-term customer trust and satisfaction. By enhancing the checkout process, we’re investing in the overall user experience, ensuring that customers find the platform reliable, easy to use, and customer-centric. This, in turn, will not only drive immediate profitability but also foster longer-term customer loyalty.
 
 ## Hypothesis
 
-While analyzing our checkout flow data, we recognized a glaring discrepancy. Mobile users reported the Number Field is Required error more frequently than desktop users — even though the number of mobile users attempting to checkout was significantly less.
+While analyzing the checkout flow data, we recognized a glaring discrepancy. Mobile users reported the Number Field is Required error more frequently than desktop users — even though the number of mobile users attempting to checkout was significantly less.
 
-This raises a crucial question about the user-friendliness of our mobile interface, especially concerning the card number input. Therefore, we can suspect that the layout or design of the card number input field might not be as intuitive or visible on smaller mobile screens as it is on desktops. Mobile users — especially those new to our platform or in environments with glare or interruptions — might inadvertently miss or misunderstand this input field. Based on this, we can formulate the following hypothesis:
+This raises a crucial question about the user-friendliness of the mobile interface, especially concerning the card number input. Therefore, we can suspect that the layout or design of the card number input field might not be as intuitive or visible on smaller mobile screens as it is on desktops. Mobile users — especially those new to the platform or in environments with glare or interruptions — might inadvertently miss or misunderstand this input field. Based on this, we can formulate the following hypothesis:
 
 The card number input might be challenging to spot on mobile displays, leading users to overlook it. By enhancing the visibility of this field — such as increasing its size or changing its design — we anticipate a boost in checkout success rates, which could result in a significant rise in completed transactions and, consequently, an increase in the company’s revenue.
 
@@ -54,7 +54,7 @@ The error message, Your Card was Declined, is roughly three times more prevalent
 Offering alternative payment methods could reduce the abandonment rate due to card issues.
 Some customers might face card declines or prefer a different payment method for security or convenience. Introduce options like digital wallets, bank transfers, or buy-now-pay-later services.
 
-Imagine a situation where users are about to purchase your online product, but their preferred credit card gets declined because of a temporary bank error. By introducing alternative payment methods — such as digital wallets or buy-now-pay-later options — you allow these users to spread out their payments or utilize a different payment avenue. This mitigates the risk of transaction decline due to credit card limits and caters to the user’s convenience and financial comfort — potentially increasing successful checkouts.
+Imagine a situation where users are about to purchase an online product, but their preferred credit card gets declined because of a temporary bank error. By introducing alternative payment methods — such as digital wallets or buy-now-pay-later options — you allow these users to spread out their payments or utilize a different payment avenue. This mitigates the risk of transaction decline due to credit card limits and caters to the user’s convenience and financial comfort — potentially increasing successful checkouts.
 
 4. Real-Time Card Validation
 
