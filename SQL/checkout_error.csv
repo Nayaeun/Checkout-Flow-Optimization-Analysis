@@ -1,0 +1,1001 @@
+user_id,action_date,action_name,error_message,device
+3152,2022-07-01,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+4034,2022-07-01,checkout_annual_completepayment.click.fail,"number field is required",desktop
+5652,2022-07-01,checkout_annual_completepayment.click.success,NULL,desktop
+8765,2022-07-01,checkout_annual_completepayment.click.success,NULL,desktop
+162320,2022-07-01,checkout_monthly_completepayment.click.fail,"State field is required",desktop
+280011,2022-07-01,checkout_monthly_completepayment.click.success,NULL,mobile
+280000,2022-07-01,checkout_annual_completepayment.click.success,NULL,desktop
+279959,2022-07-01,checkout_data-strategy_completepayment.click.fail,"year field is required",mobile
+278088,2022-07-01,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+277323,2022-07-01,checkout_annual_completepayment.click.fail,"year field is required",desktop
+12003,2022-07-02,checkout_annual_completepayment.click.fail,"number field is required",desktop
+280114,2022-07-02,checkout_monthly_completepayment.click.fail,"lastName field is required",desktop
+280084,2022-07-02,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+280067,2022-07-02,checkout_annual_completepayment.click.success,NULL,desktop
+280053,2022-07-02,checkout_annual_completepayment.click.success,NULL,desktop
+279178,2022-07-02,checkout_monthly_completepayment.click.fail,"cvv field is required",desktop
+280189,2022-07-03,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+280140,2022-07-03,checkout_monthly_completepayment.click.fail,"month field is required",desktop
+280132,2022-07-03,checkout_monthly_completepayment.click.fail,"Your card's security code is invalid.",desktop
+280126,2022-07-03,checkout_annual_completepayment.click.fail,"Your card is not supported.",desktop
+278483,2022-07-03,checkout_monthly_completepayment.click.success,NULL,desktop
+277782,2022-07-03,checkout_monthly_completepayment.click.success,NULL,desktop
+283840,2022-07-04,checkout_annual_completepayment.click.fail,"number field is required",desktop
+166837,2022-07-04,checkout_monthly_completepayment.click.success,NULL,desktop
+280307,2022-07-04,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+280233,2022-07-04,checkout_lifetime_completepayment.click.success,NULL,desktop
+280218,2022-07-04,checkout_monthly_completepayment.click.success,NULL,desktop
+280159,2022-07-04,checkout_monthly_completepayment.click.success,NULL,desktop
+280134,2022-07-04,checkout_annual_completepayment.click.fail,"zip field is required",desktop
+279881,2022-07-04,checkout_annual_completepayment.click.success,NULL,desktop
+278853,2022-07-04,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+277721,2022-07-04,checkout_annual_completepayment.click.fail,"zip field is required",desktop
+156795,2022-07-05,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+280145,2022-07-05,checkout_lifetime_completepayment.click.fail,"year field is required",desktop
+279482,2022-07-05,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+248535,2022-07-05,checkout_monthly_completepayment.click.success,NULL,desktop
+9666,2022-07-06,checkout_annual_completepayment.click.fail,"number field is required",desktop
+134064,2022-07-06,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+156099,2022-07-06,checkout_monthly_completepayment.click.fail,"number field is required",mobile
+280592,2022-07-06,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+280552,2022-07-06,checkout_monthly_completepayment.click.success,NULL,desktop
+280516,2022-07-06,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+280489,2022-07-06,checkout_data-strategy_completepayment.click.success,NULL,desktop
+280448,2022-07-06,checkout_lifetime_completepayment.click.fail,"Credit card number: must be a valid credit card number.",desktop
+280427,2022-07-06,checkout_monthly_completepayment.click.success,NULL,desktop
+280324,2022-07-06,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+280031,2022-07-06,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+277322,2022-07-06,checkout_annual_completepayment.click.fail,"State field is required",desktop
+276770,2022-07-06,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+280697,2022-07-07,checkout_annual_completepayment.click.success,NULL,desktop
+280548,2022-07-07,checkout_monthly_completepayment.click.success,NULL,desktop
+2,2022-07-08,checkout_annual_completepayment.click.fail,"number field is required",desktop
+280818,2022-07-08,checkout_annual_completepayment.click.success,NULL,desktop
+280814,2022-07-08,checkout_quarterly_completepayment.click.fail,"zip field is required",desktop
+280794,2022-07-08,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+280776,2022-07-08,checkout_annual_completepayment.click.fail,"number field is required",desktop
+280772,2022-07-08,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+280744,2022-07-08,checkout_annual_completepayment.click.fail,"number field is required",desktop
+280724,2022-07-08,checkout_annual_completepayment.click.success,NULL,desktop
+280709,2022-07-08,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+280545,2022-07-08,checkout_annual_completepayment.click.success,NULL,desktop
+278539,2022-07-08,checkout_monthly_completepayment.click.success,NULL,desktop
+8191,2022-07-09,checkout_annual_completepayment.click.fail,"number field is required",desktop
+177649,2022-07-09,checkout_monthly_completepayment.click.success,NULL,desktop
+190610,2022-07-09,checkout_monthly_completepayment.click.success,NULL,desktop
+280946,2022-07-09,checkout_annual_completepayment.click.success,NULL,desktop
+275045,2022-07-09,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+3643,2022-07-10,checkout_annual_completepayment.click.fail,"number field is required",desktop
+280954,2022-07-10,checkout_annual_completepayment.click.success,NULL,desktop
+280868,2022-07-10,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+280412,2022-07-10,checkout_annual_completepayment.click.fail,"year field is required",desktop
+280208,2022-07-10,checkout_annual_completepayment.click.fail,"year field is required",desktop
+278833,2022-07-10,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+274464,2022-07-10,checkout_monthly_completepayment.click.success,NULL,desktop
+182,2022-07-11,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+155640,2022-07-11,checkout_quarterly_completepayment.click.success,NULL,desktop
+281161,2022-07-11,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+281143,2022-07-11,checkout_data-strategy_completepayment.click.success,NULL,desktop
+281117,2022-07-11,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+280249,2022-07-11,checkout_annual_completepayment.click.success,NULL,desktop
+213546,2022-07-11,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+275800,2022-07-11,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+281321,2022-07-12,checkout_sql-for-data-science-interviews_completepayment.click.success,NULL,desktop
+281315,2022-07-12,checkout_business_completepayment.click.fail,"number field is required",desktop
+281283,2022-07-12,checkout_quarterly_completepayment.click.fail,"Your card was declined.",mobile
+281281,2022-07-12,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",mobile
+281240,2022-07-12,checkout_data-strategy_completepayment.click.success,NULL,desktop
+281200,2022-07-12,checkout_monthly_completepayment.click.success,NULL,desktop
+281095,2022-07-12,checkout_annual_completepayment.click.success,NULL,desktop
+281074,2022-07-12,checkout_quarterly_completepayment.click.fail,"State field is required",desktop
+200386,2022-07-12,checkout_monthly_completepayment.click.success,NULL,desktop
+266814,2022-07-12,checkout_annual_completepayment.click.fail,"number field is required",desktop
+281592,2022-07-13,checkout_annual_completepayment.click.fail,"number field is required",mobile
+281447,2022-07-13,checkout_annual_completepayment.click.success,NULL,desktop
+281440,2022-07-13,checkout_annual_completepayment.click.fail,"year field is required",desktop
+281331,2022-07-13,checkout_annual_completepayment.click.success,NULL,desktop
+281297,2022-07-13,checkout_monthly_completepayment.click.fail,"Your card is not supported.",mobile
+280863,2022-07-13,checkout_annual_completepayment.click.fail,"number field is required",mobile
+280613,2022-07-13,checkout_annual_completepayment.click.fail,"State field is required",desktop
+214361,2022-07-13,checkout_monthly_completepayment.click.fail,"year field is required",mobile
+279404,2022-07-13,checkout_monthly_completepayment.click.success,NULL,desktop
+276760,2022-07-13,checkout_data-strategy_completepayment.click.success,NULL,desktop
+30047,2022-07-14,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+281527,2022-07-14,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+281451,2022-07-14,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+281370,2022-07-14,checkout_lifetime_completepayment.click.fail,"year field is required",mobile
+280854,2022-07-14,checkout_annual_completepayment.click.fail,"Credit card number: must be a valid credit card number.",desktop
+19677,2022-07-15,checkout_monthly_completepayment.click.success,NULL,desktop
+139273,2022-07-15,checkout_monthly_completepayment.click.success,NULL,mobile
+172869,2022-07-15,checkout_annual_completepayment.click.fail,"number field is required",desktop
+281637,2022-07-15,checkout_lifetime_completepayment.click.success,NULL,desktop
+281628,2022-07-15,checkout_data-strategy_completepayment.click.success,NULL,desktop
+281609,2022-07-15,checkout_monthly_completepayment.click.success,NULL,mobile
+281299,2022-07-15,checkout_annual_completepayment.click.fail,"year field is required",desktop
+280825,2022-07-15,checkout_annual_completepayment.click.success,NULL,desktop
+278366,2022-07-15,checkout_annual_completepayment.click.success,NULL,desktop
+275786,2022-07-15,checkout_monthly_completepayment.click.fail,"lastName field is required",desktop
+245818,2022-07-15,checkout_annual_completepayment.click.fail,"number field is required",desktop
+181830,2022-07-16,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+281773,2022-07-16,checkout_monthly_completepayment.click.fail,"Your card number is incorrect.",desktop
+281753,2022-07-16,checkout_monthly_completepayment.click.success,NULL,desktop
+280932,2022-07-16,checkout_annual_completepayment.click.fail,"number field is required",desktop
+272596,2022-07-16,checkout_quarterly_completepayment.click.success,NULL,desktop
+269874,2022-07-16,checkout_quarterly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+281796,2022-07-17,checkout_monthly_completepayment.click.fail,"year field is required",mobile
+281787,2022-07-17,checkout_annual_completepayment.click.fail,"State field is required",desktop
+18049,2022-07-18,checkout_monthly_completepayment.click.success,NULL,desktop
+135492,2022-07-18,checkout_annual_completepayment.click.fail,"number field is required",desktop
+180571,2022-07-18,checkout_annual_completepayment.click.fail,"number field is required",desktop
+282023,2022-07-18,checkout_sql-for-data-science-interviews_completepayment.click.success,NULL,desktop
+282010,2022-07-18,checkout_annual_completepayment.click.success,NULL,desktop
+281993,2022-07-18,checkout_annual_completepayment.click.fail,"month field is required",desktop
+281992,2022-07-18,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+281989,2022-07-18,checkout_annual_completepayment.click.success,NULL,desktop
+281925,2022-07-18,checkout_annual_completepayment.click.success,NULL,desktop
+281742,2022-07-18,checkout_annual_completepayment.click.success,NULL,desktop
+281714,2022-07-18,checkout_annual_completepayment.click.success,NULL,desktop
+201697,2022-07-18,checkout_annual_completepayment.click.fail,"number field is required",mobile
+215709,2022-07-18,checkout_monthly_completepayment.click.success,NULL,desktop
+278611,2022-07-18,checkout_annual_completepayment.click.success,NULL,desktop
+274877,2022-07-18,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+273161,2022-07-18,checkout_annual_completepayment.click.fail,"number field is required",desktop
+271841,2022-07-18,checkout_annual_completepayment.click.success,NULL,desktop
+267684,2022-07-18,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",mobile
+264155,2022-07-18,checkout_annual_completepayment.click.success,NULL,mobile
+144179,2022-07-19,checkout_quarterly_completepayment.click.fail,"Your card was declined.",desktop
+282124,2022-07-19,checkout_annual_completepayment.click.success,NULL,desktop
+282107,2022-07-19,checkout_annual_completepayment.click.success,NULL,desktop
+282100,2022-07-19,checkout_business_completepayment.click.success,NULL,desktop
+282085,2022-07-19,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",mobile
+282072,2022-07-19,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282049,2022-07-19,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282040,2022-07-19,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",mobile
+184569,2022-07-19,checkout_annual_completepayment.click.fail,"number field is required",desktop
+281671,2022-07-19,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",mobile
+280821,2022-07-19,checkout_annual_completepayment.click.fail,"month field is required",desktop
+277403,2022-07-19,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+271306,2022-07-19,checkout_annual_completepayment.click.success,NULL,desktop
+248094,2022-07-19,checkout_annual_completepayment.click.success,NULL,desktop
+257569,2022-07-19,checkout_annual_completepayment.click.success,NULL,desktop
+768,2022-07-20,checkout_annual_completepayment.click.success,NULL,desktop
+282181,2022-07-20,checkout_quarterly_completepayment.click.success,NULL,desktop
+282172,2022-07-20,checkout_annual_completepayment.click.fail,"year field is required",mobile
+282167,2022-07-20,checkout_annual_completepayment.click.fail,"number field is required",mobile
+282164,2022-07-20,checkout_annual_completepayment.click.success,NULL,desktop
+282159,2022-07-20,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+282158,2022-07-20,checkout_quarterly_completepayment.click.fail,"year field is required",desktop
+282153,2022-07-20,checkout_annual_completepayment.click.fail,"number field is required",mobile
+282121,2022-07-20,checkout_annual_completepayment.click.success,NULL,desktop
+282066,2022-07-20,checkout_annual_completepayment.click.fail,"number field is required",desktop
+281453,2022-07-20,checkout_annual_completepayment.click.fail,"year field is required",desktop
+280547,2022-07-20,checkout_monthly_completepayment.click.fail,"State field is required",desktop
+279396,2022-07-20,checkout_annual_completepayment.click.fail,"number field is required",desktop
+264228,2022-07-20,checkout_annual_completepayment.click.success,NULL,desktop
+261139,2022-07-20,checkout_annual_completepayment.click.fail,"number field is required",mobile
+259486,2022-07-20,checkout_annual_completepayment.click.success,NULL,desktop
+256832,2022-07-20,checkout_annual_completepayment.click.fail,"year field is required",desktop
+289211,2022-07-21,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+7488,2022-07-21,checkout_annual_completepayment.click.success,NULL,desktop
+25047,2022-07-21,checkout_annual_completepayment.click.success,NULL,desktop
+131373,2022-07-21,checkout_annual_completepayment.click.success,NULL,desktop
+135321,2022-07-21,checkout_lifetime_completepayment.click.fail,"number field is required",desktop
+282273,2022-07-21,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282261,2022-07-21,checkout_annual_completepayment.click.success,NULL,desktop
+282218,2022-07-21,checkout_annual_completepayment.click.success,NULL,desktop
+282214,2022-07-21,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282207,2022-07-21,checkout_annual_completepayment.click.success,NULL,desktop
+282193,2022-07-21,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",mobile
+281966,2022-07-21,checkout_annual_completepayment.click.success,NULL,desktop
+278890,2022-07-21,checkout_annual_completepayment.click.success,NULL,desktop
+278101,2022-07-21,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282356,2022-07-22,checkout_annual_completepayment.click.success,NULL,desktop
+282352,2022-07-22,checkout_annual_completepayment.click.success,NULL,desktop
+282344,2022-07-22,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282322,2022-07-22,checkout_annual_completepayment.click.success,NULL,desktop
+282291,2022-07-22,checkout_annual_completepayment.click.success,NULL,desktop
+191101,2022-07-22,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+272050,2022-07-22,checkout_annual_completepayment.click.success,NULL,desktop
+269422,2022-07-22,checkout_annual_completepayment.click.fail,"number field is required",desktop
+266187,2022-07-22,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+261972,2022-07-22,checkout_annual_completepayment.click.success,NULL,desktop
+261828,2022-07-22,checkout_monthly_completepayment.click.success,NULL,desktop
+282446,2022-07-23,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282443,2022-07-23,checkout_annual_completepayment.click.success,NULL,desktop
+282430,2022-07-23,checkout_annual_completepayment.click.success,NULL,desktop
+282393,2022-07-23,checkout_annual_completepayment.click.fail,"year field is required",mobile
+282380,2022-07-23,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",mobile
+282371,2022-07-23,checkout_annual_completepayment.click.fail,"zip field is required",desktop
+282336,2022-07-23,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282149,2022-07-23,checkout_annual_completepayment.click.success,NULL,desktop
+275307,2022-07-23,checkout_annual_completepayment.click.fail,"year field is required",desktop
+272089,2022-07-23,checkout_annual_completepayment.click.fail,"number field is required",desktop
+269748,2022-07-23,checkout_annual_completepayment.click.success,NULL,desktop
+282503,2022-07-24,checkout_data-strategy_completepayment.click.success,NULL,desktop
+282462,2022-07-24,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+281885,2022-07-24,checkout_annual_completepayment.click.success,NULL,desktop
+275224,2022-07-24,checkout_annual_completepayment.click.fail,"State field is required",mobile
+263438,2022-07-24,checkout_annual_completepayment.click.fail,"number field is required",desktop
+256144,2022-07-24,checkout_annual_completepayment.click.success,NULL,desktop
+40735,2022-07-25,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+60452,2022-07-25,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+83266,2022-07-25,checkout_monthly_completepayment.click.fail,"State field is required",desktop
+143432,2022-07-25,checkout_annual_completepayment.click.fail,"lastName field is required",mobile
+143785,2022-07-25,checkout_annual_completepayment.click.success,NULL,desktop
+282614,2022-07-25,checkout_annual_completepayment.click.fail,"Your card is not supported.",desktop
+282610,2022-07-25,checkout_quarterly_completepayment.click.fail,"year field is required",desktop
+282608,2022-07-25,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282595,2022-07-25,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282591,2022-07-25,checkout_annual_completepayment.click.success,NULL,desktop
+282586,2022-07-25,checkout_annual_completepayment.click.fail,"Your card is not supported.",mobile
+282580,2022-07-25,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282576,2022-07-25,checkout_annual_completepayment.click.success,NULL,desktop
+282560,2022-07-25,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+282546,2022-07-25,checkout_annual_completepayment.click.success,NULL,desktop
+282542,2022-07-25,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+282541,2022-07-25,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+282527,2022-07-25,checkout_annual_completepayment.click.fail,"number field is required",mobile
+282504,2022-07-25,checkout_annual_completepayment.click.success,NULL,desktop
+282402,2022-07-25,checkout_annual_completepayment.click.fail,"number field is required",desktop
+281528,2022-07-25,checkout_annual_completepayment.click.success,NULL,desktop
+280212,2022-07-25,checkout_annual_completepayment.click.fail,"number field is required",mobile
+224015,2022-07-25,checkout_annual_completepayment.click.fail,"State field is required",mobile
+229673,2022-07-25,checkout_annual_completepayment.click.fail,"year field is required",mobile
+272145,2022-07-25,checkout_annual_completepayment.click.success,NULL,desktop
+248182,2022-07-25,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+1791,2022-07-26,checkout_annual_completepayment.click.fail,"lastName field is required",mobile
+3333,2022-07-26,checkout_monthly_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+53122,2022-07-26,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+91128,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+105609,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+282729,2022-07-26,checkout_data-strategy_completepayment.click.success,NULL,desktop
+282713,2022-07-26,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+282712,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+282706,2022-07-26,checkout_quarterly_completepayment.click.success,NULL,desktop
+282705,2022-07-26,checkout_annual_completepayment.click.fail,"year field is required",mobile
+282700,2022-07-26,checkout_annual_completepayment.click.fail,"Your card is not supported.",desktop
+282697,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+282691,2022-07-26,checkout_annual_completepayment.click.success,NULL,mobile
+282687,2022-07-26,checkout_annual_completepayment.click.fail,"firstName field is required",desktop
+282668,2022-07-26,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+282665,2022-07-26,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282650,2022-07-26,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282648,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+282638,2022-07-26,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+282637,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+282629,2022-07-26,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282564,2022-07-26,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282529,2022-07-26,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+282429,2022-07-26,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+282408,2022-07-26,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+182297,2022-07-26,checkout_annual_completepayment.click.fail,"year field is required",desktop
+280853,2022-07-26,checkout_annual_completepayment.click.fail,"lastName field is required",mobile
+280615,2022-07-26,checkout_annual_completepayment.click.fail,"year field is required",mobile
+280379,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+278881,2022-07-26,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+277866,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+275594,2022-07-26,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+269321,2022-07-26,checkout_annual_completepayment.click.fail,"Your card is not supported.",desktop
+265680,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+547873,2022-07-26,checkout_annual_completepayment.click.success,NULL,desktop
+116556,2022-07-27,checkout_annual_completepayment.click.success,NULL,mobile
+282825,2022-07-27,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282813,2022-07-27,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+282793,2022-07-27,checkout_business_completepayment.click.success,NULL,desktop
+282791,2022-07-27,checkout_annual_completepayment.click.success,NULL,mobile
+282781,2022-07-27,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282779,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+282757,2022-07-27,checkout_annual_completepayment.click.fail,"number field is required",mobile
+282741,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+282738,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+282731,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+282643,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+282553,2022-07-27,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282507,2022-07-27,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+282359,2022-07-27,checkout_annual_completepayment.click.success,NULL,mobile
+282275,2022-07-27,checkout_annual_completepayment.click.success,NULL,mobile
+282237,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+282235,2022-07-27,checkout_annual_completepayment.click.fail,"month field is required",desktop
+282033,2022-07-27,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+182922,2022-07-27,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+281568,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+202535,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+278421,2022-07-27,checkout_annual_completepayment.click.success,NULL,desktop
+273136,2022-07-27,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+13344,2022-07-28,checkout_annual_completepayment.click.fail,"Your card is not supported for this currency. Please use a Visa or MasterCard card",desktop
+15748,2022-07-28,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",mobile
+85401,2022-07-28,checkout_annual_completepayment.click.fail,"number field is required",desktop
+282911,2022-07-28,checkout_annual_completepayment.click.fail,"month field is required",mobile
+282901,2022-07-28,checkout_annual_completepayment.click.success,NULL,desktop
+282892,2022-07-28,checkout_annual_completepayment.click.fail,"year field is required",desktop
+282881,2022-07-28,checkout_annual_completepayment.click.success,NULL,desktop
+282864,2022-07-28,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+282847,2022-07-28,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282838,2022-07-28,checkout_annual_completepayment.click.success,NULL,desktop
+282833,2022-07-28,checkout_annual_completepayment.click.success,NULL,desktop
+282818,2022-07-28,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+282783,2022-07-28,checkout_annual_completepayment.click.fail,"firstName field is required",mobile
+155845,2022-07-28,checkout_annual_completepayment.click.success,NULL,desktop
+157808,2022-07-28,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282441,2022-07-28,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+171887,2022-07-28,checkout_annual_completepayment.click.success,NULL,desktop
+282032,2022-07-28,checkout_annual_completepayment.click.success,NULL,mobile
+213211,2022-07-28,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",mobile
+225242,2022-07-28,checkout_annual_completepayment.click.fail,"number field is required",desktop
+263656,2022-07-28,checkout_annual_completepayment.click.fail,"month field is required",desktop
+30707,2022-07-29,checkout_annual_completepayment.click.success,NULL,desktop
+136640,2022-07-29,checkout_annual_completepayment.click.fail,"year field is required",mobile
+283026,2022-07-29,checkout_sql-for-data-science-interviews_completepayment.click.fail,"year field is required",desktop
+282956,2022-07-29,checkout_annual_completepayment.click.fail,"number field is required",desktop
+282948,2022-07-29,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+282944,2022-07-29,checkout_data-strategy_completepayment.click.success,NULL,desktop
+282940,2022-07-29,checkout_annual_completepayment.click.fail,"number field is required",mobile
+282937,2022-07-29,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+282935,2022-07-29,checkout_annual_completepayment.click.success,NULL,desktop
+282929,2022-07-29,checkout_monthly_completepayment.click.fail,"Coupon Code: '10OFFSPECIAL' - Coupon code could not be found.",desktop
+282926,2022-07-29,checkout_annual_completepayment.click.success,NULL,desktop
+282925,2022-07-29,checkout_annual_completepayment.click.fail,"State field is required",desktop
+282839,2022-07-29,checkout_annual_completepayment.click.success,NULL,desktop
+282829,2022-07-29,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282751,2022-07-29,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282626,2022-07-29,checkout_annual_completepayment.click.success,NULL,desktop
+164133,2022-07-29,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",mobile
+282567,2022-07-29,checkout_annual_completepayment.click.success,NULL,desktop
+179898,2022-07-29,checkout_annual_completepayment.click.fail,"number field is required",mobile
+279388,2022-07-29,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+247086,2022-07-29,checkout_annual_completepayment.click.success,NULL,desktop
+283132,2022-07-30,checkout_data-strategy_completepayment.click.fail,"year field is required",mobile
+283130,2022-07-30,checkout_annual_completepayment.click.success,NULL,desktop
+283116,2022-07-30,checkout_annual_completepayment.click.fail,"State field is required",desktop
+283075,2022-07-30,checkout_data-strategy_completepayment.click.fail,"number field is required",mobile
+283038,2022-07-30,checkout_annual_completepayment.click.fail,"number field is required",mobile
+143561,2022-07-30,checkout_monthly_completepayment.click.success,NULL,desktop
+283033,2022-07-30,checkout_data-strategy_completepayment.click.fail,"Your card is not supported for this currency. Please use a Visa or MasterCard card",desktop
+283031,2022-07-30,checkout_annual_completepayment.click.success,NULL,desktop
+283029,2022-07-30,checkout_annual_completepayment.click.fail,"year field is required",desktop
+466669,2022-07-30,checkout_monthly_completepayment.click.success,NULL,desktop
+283286,2022-07-31,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+283239,2022-07-31,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+283176,2022-07-31,checkout_data-strategy_completepayment.click.success,NULL,mobile
+283162,2022-07-31,checkout_monthly_completepayment.click.fail,"year field is required",mobile
+176795,2022-07-31,checkout_annual_completepayment.click.fail,"number field is required",desktop
+177810,2022-07-31,checkout_monthly_completepayment.click.success,NULL,desktop
+273723,2022-07-31,checkout_annual_completepayment.click.fail,"year field is required",desktop
+265370,2022-07-31,checkout_annual_completepayment.click.fail,"zip field is required",desktop
+6239,2022-08-01,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+283473,2022-08-01,checkout_sql-for-data-science-interviews_completepayment.click.success,NULL,desktop
+283400,2022-08-01,checkout_lifetime_completepayment.click.fail,"lastName field is required",desktop
+283328,2022-08-01,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+283325,2022-08-01,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+283318,2022-08-01,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+283310,2022-08-01,checkout_monthly_completepayment.click.fail,"Your card number is incorrect.",desktop
+283023,2022-08-01,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",mobile
+279969,2022-08-01,checkout_annual_completepayment.click.fail,"number field is required",desktop
+279513,2022-08-01,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+274791,2022-08-01,checkout_quarterly_completepayment.click.fail,"year field is required",desktop
+283598,2022-08-02,checkout_monthly_completepayment.click.success,NULL,desktop
+283591,2022-08-02,checkout_data-strategy_completepayment.click.success,NULL,desktop
+283025,2022-08-02,checkout_annual_completepayment.click.success,NULL,desktop
+278789,2022-08-02,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+283695,2022-08-03,checkout_data-strategy_completepayment.click.fail,"Your card was declined.",desktop
+283573,2022-08-03,checkout_monthly_completepayment.click.success,NULL,desktop
+283300,2022-08-03,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+283005,2022-08-03,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+177584,2022-08-03,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+178245,2022-08-03,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+12900,2022-08-04,checkout_annual_completepayment.click.fail,"number field is required",desktop
+283927,2022-08-04,checkout_annual_completepayment.click.fail,"year field is required",desktop
+283833,2022-08-04,checkout_business_completepayment.click.success,NULL,desktop
+283831,2022-08-04,checkout_data-strategy_completepayment.click.success,NULL,desktop
+283809,2022-08-04,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+283745,2022-08-04,checkout_quarterly_completepayment.click.success,NULL,desktop
+283720,2022-08-04,checkout_annual_completepayment.click.success,NULL,desktop
+283357,2022-08-04,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+282995,2022-08-04,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+282986,2022-08-04,checkout_lifetime_completepayment.click.success,NULL,desktop
+282960,2022-08-04,checkout_annual_completepayment.click.fail,"year field is required",desktop
+158724,2022-08-04,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+272696,2022-08-04,checkout_quarterly_completepayment.click.success,NULL,desktop
+284067,2022-08-05,checkout_annual_completepayment.click.success,NULL,desktop
+284066,2022-08-05,checkout_annual_completepayment.click.fail,"State field is required",desktop
+284063,2022-08-05,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+284028,2022-08-05,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+283859,2022-08-05,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+283456,2022-08-05,checkout_monthly_completepayment.click.success,NULL,desktop
+283406,2022-08-05,checkout_annual_completepayment.click.success,NULL,desktop
+181233,2022-08-05,checkout_annual_completepayment.click.success,NULL,desktop
+281325,2022-08-05,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+276562,2022-08-05,checkout_monthly_completepayment.click.success,NULL,desktop
+248826,2022-08-05,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+284167,2022-08-06,checkout_annual_completepayment.click.success,NULL,desktop
+284152,2022-08-06,checkout_annual_completepayment.click.success,NULL,desktop
+284011,2022-08-06,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+283696,2022-08-06,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+280839,2022-08-06,checkout_lifetime_completepayment.click.success,NULL,desktop
+284320,2022-08-07,checkout_monthly_completepayment.click.success,NULL,desktop
+284311,2022-08-07,checkout_monthly_completepayment.click.success,NULL,desktop
+284258,2022-08-07,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+283452,2022-08-07,checkout_annual_completepayment.click.success,NULL,desktop
+274781,2022-08-07,checkout_monthly_completepayment.click.success,NULL,desktop
+284420,2022-08-08,checkout_annual_completepayment.click.fail,"lastName field is required",mobile
+284379,2022-08-08,checkout_annual_completepayment.click.success,NULL,desktop
+284344,2022-08-08,checkout_annual_completepayment.click.fail,"State field is required",desktop
+284342,2022-08-08,checkout_annual_completepayment.click.success,NULL,desktop
+284241,2022-08-08,checkout_quarterly_completepayment.click.fail,"lastName field is required",desktop
+283806,2022-08-08,checkout_annual_completepayment.click.success,NULL,desktop
+282803,2022-08-08,checkout_monthly_completepayment.click.success,NULL,desktop
+282520,2022-08-08,checkout_monthly_completepayment.click.success,NULL,desktop
+284512,2022-08-09,checkout_monthly_completepayment.click.fail,"State field is required",desktop
+284492,2022-08-09,checkout_monthly_completepayment.click.success,NULL,desktop
+284402,2022-08-09,checkout_annual_completepayment.click.success,NULL,desktop
+284292,2022-08-09,checkout_monthly_completepayment.click.success,NULL,desktop
+283623,2022-08-09,checkout_annual_completepayment.click.success,NULL,desktop
+283576,2022-08-09,checkout_annual_completepayment.click.success,NULL,desktop
+197639,2022-08-09,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+285670,2022-08-10,checkout_monthly_completepayment.click.fail,"number field is required",mobile
+284695,2022-08-10,checkout_data-strategy_completepayment.click.success,NULL,mobile
+284671,2022-08-10,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+284657,2022-08-10,checkout_data-strategy_completepayment.click.fail,"number field is required",desktop
+284633,2022-08-10,checkout_monthly_completepayment.click.success,NULL,desktop
+284630,2022-08-10,checkout_sql-for-data-science-interviews_completepayment.click.success,NULL,desktop
+284566,2022-08-10,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",mobile
+284438,2022-08-10,checkout_annual_completepayment.click.fail,"number field is required",desktop
+284415,2022-08-10,checkout_monthly_completepayment.click.success,NULL,desktop
+278995,2022-08-10,checkout_monthly_completepayment.click.fail,"month field is required",desktop
+262569,2022-08-10,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+284857,2022-08-11,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+284854,2022-08-11,checkout_quarterly_completepayment.click.success,NULL,mobile
+284680,2022-08-11,checkout_monthly_completepayment.click.success,NULL,desktop
+284266,2022-08-11,checkout_annual_completepayment.click.success,NULL,mobile
+284180,2022-08-11,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+283923,2022-08-11,checkout_annual_completepayment.click.fail,"year field is required",desktop
+183890,2022-08-11,checkout_monthly_completepayment.click.success,NULL,desktop
+6026,2022-08-12,checkout_monthly_completepayment.click.success,NULL,desktop
+285154,2022-08-12,checkout_annual_completepayment.click.success,NULL,desktop
+219925,2022-08-12,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+285252,2022-08-13,checkout_monthly_completepayment.click.success,NULL,desktop
+284954,2022-08-13,checkout_monthly_completepayment.click.success,NULL,desktop
+284141,2022-08-13,checkout_annual_completepayment.click.fail,"year field is required",mobile
+148775,2022-08-13,checkout_monthly_completepayment.click.success,NULL,desktop
+280458,2022-08-13,checkout_annual_completepayment.click.success,NULL,desktop
+285411,2022-08-14,checkout_annual_completepayment.click.fail,"year field is required",desktop
+277353,2022-08-14,checkout_monthly_completepayment.click.fail,"State field is required",mobile
+285915,2022-08-15,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+285813,2022-08-15,checkout_annual_completepayment.click.fail,"number field is required",desktop
+161941,2022-08-15,checkout_monthly_completepayment.click.fail,"Your card is not supported.",desktop
+280611,2022-08-15,checkout_monthly_completepayment.click.success,NULL,desktop
+286616,2022-08-16,checkout_sql-for-data-science-interviews_completepayment.click.fail,"year field is required",desktop
+286957,2022-08-17,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+286819,2022-08-17,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+181512,2022-08-17,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+265210,2022-08-17,checkout_monthly_completepayment.click.success,NULL,desktop
+261073,2022-08-17,checkout_monthly_completepayment.click.success,NULL,desktop
+1641,2022-08-18,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+287028,2022-08-18,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+287006,2022-08-18,checkout_monthly_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+287003,2022-08-18,checkout_data-strategy_completepayment.click.success,NULL,desktop
+286884,2022-08-18,checkout_monthly_completepayment.click.success,NULL,desktop
+286881,2022-08-18,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+286865,2022-08-18,checkout_monthly_completepayment.click.success,NULL,desktop
+286753,2022-08-18,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+17780,2022-08-18,checkout_monthly_completepayment.click.success,NULL,desktop
+285322,2022-08-18,checkout_monthly_completepayment.click.success,NULL,desktop
+24911,2022-08-18,checkout_annual_completepayment.click.success,NULL,desktop
+191753,2022-08-18,checkout_monthly_completepayment.click.fail,"year field is required",mobile
+223232,2022-08-18,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+275323,2022-08-18,checkout_annual_completepayment.click.fail,"number field is required",mobile
+266184,2022-08-18,checkout_monthly_completepayment.click.fail,"Your card was declined.",mobile
+262643,2022-08-18,checkout_monthly_completepayment.click.success,NULL,desktop
+287253,2022-08-19,checkout_annual_completepayment.click.fail,"number field is required",desktop
+287206,2022-08-19,checkout_quarterly_completepayment.click.fail,"number field is required",desktop
+286717,2022-08-19,checkout_annual_completepayment.click.success,NULL,desktop
+284482,2022-08-19,checkout_monthly_completepayment.click.success,NULL,desktop
+284166,2022-08-19,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+275173,2022-08-19,checkout_monthly_completepayment.click.success,NULL,desktop
+287434,2022-08-20,checkout_annual_completepayment.click.success,NULL,desktop
+287334,2022-08-20,checkout_annual_completepayment.click.fail,"Your card is not supported for this currency. Please use a Visa or MasterCard card",desktop
+287214,2022-08-20,checkout_monthly_completepayment.click.success,NULL,desktop
+286735,2022-08-20,checkout_annual_completepayment.click.success,NULL,desktop
+177307,2022-08-20,checkout_quarterly_completepayment.click.fail,"number field is required",desktop
+272977,2022-08-20,checkout_monthly_completepayment.click.success,NULL,desktop
+2737,2022-08-21,checkout_monthly_completepayment.click.success,NULL,desktop
+287531,2022-08-21,checkout_sql-for-data-science-interviews_completepayment.click.fail,"zip field is required",desktop
+287523,2022-08-21,checkout_quarterly_completepayment.click.fail,"number field is required",desktop
+287436,2022-08-21,checkout_monthly_completepayment.click.fail,"zip field is required",mobile
+287072,2022-08-21,checkout_monthly_completepayment.click.success,NULL,desktop
+286606,2022-08-21,checkout_monthly_completepayment.click.success,NULL,desktop
+286487,2022-08-21,checkout_annual_completepayment.click.fail,"number field is required",desktop
+5,2022-08-22,checkout_annual_completepayment.click.fail,"number field is required",desktop
+1482,2022-08-22,checkout_annual_completepayment.click.success,NULL,desktop
+288355,2022-08-22,checkout_annual_completepayment.click.fail,"number field is required",desktop
+287632,2022-08-22,checkout_annual_completepayment.click.success,NULL,mobile
+287625,2022-08-22,checkout_annual_completepayment.click.fail,"State field is required",desktop
+287553,2022-08-22,checkout_monthly_completepayment.click.fail,"Your card is not supported.",desktop
+9061,2022-08-22,checkout_annual_completepayment.click.success,NULL,desktop
+287548,2022-08-22,checkout_annual_completepayment.click.fail,"year field is required",desktop
+286190,2022-08-22,checkout_annual_completepayment.click.success,NULL,desktop
+181902,2022-08-22,checkout_monthly_completepayment.click.success,NULL,desktop
+280372,2022-08-22,checkout_monthly_completepayment.click.fail,"number field is required",mobile
+287739,2022-08-23,checkout_annual_completepayment.click.success,NULL,desktop
+287737,2022-08-23,checkout_annual_completepayment.click.success,NULL,desktop
+287721,2022-08-23,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+287330,2022-08-23,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+287238,2022-08-23,checkout_annual_completepayment.click.success,NULL,desktop
+286607,2022-08-23,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+286418,2022-08-23,checkout_monthly_completepayment.click.success,NULL,desktop
+175418,2022-08-23,checkout_monthly_completepayment.click.fail,"year field is required",mobile
+287926,2022-08-24,checkout_monthly_completepayment.click.success,NULL,desktop
+287896,2022-08-24,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+287819,2022-08-24,checkout_data-strategy_completepayment.click.success,NULL,desktop
+287352,2022-08-24,checkout_annual_completepayment.click.fail,"number field is required",mobile
+1486,2022-08-25,checkout_monthly_completepayment.click.success,NULL,desktop
+288098,2022-08-25,checkout_annual_completepayment.click.fail,"State field is required",mobile
+288076,2022-08-25,checkout_annual_completepayment.click.success,NULL,desktop
+288041,2022-08-25,checkout_data-strategy_completepayment.click.success,NULL,desktop
+288038,2022-08-25,checkout_lifetime_completepayment.click.success,NULL,desktop
+288003,2022-08-25,checkout_monthly_completepayment.click.success,NULL,desktop
+287982,2022-08-25,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+285201,2022-08-25,checkout_monthly_completepayment.click.success,NULL,desktop
+258559,2022-08-25,checkout_annual_completepayment.click.success,NULL,mobile
+283854,2022-08-26,checkout_monthly_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+226445,2022-08-26,checkout_monthly_completepayment.click.success,NULL,desktop
+279062,2022-08-26,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+288359,2022-08-27,checkout_data-strategy_completepayment.click.success,NULL,mobile
+288312,2022-08-27,checkout_data-strategy_completepayment.click.success,NULL,desktop
+288269,2022-08-27,checkout_annual_completepayment.click.success,NULL,desktop
+285737,2022-08-27,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+283115,2022-08-27,checkout_annual_completepayment.click.success,NULL,desktop
+288434,2022-08-28,checkout_annual_completepayment.click.fail,"number field is required",desktop
+288426,2022-08-28,checkout_data-strategy_completepayment.click.fail,"number field is required",desktop
+288377,2022-08-28,checkout_monthly_completepayment.click.fail,"year field is required",mobile
+288345,2022-08-28,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+287473,2022-08-28,checkout_annual_completepayment.click.success,NULL,desktop
+283662,2022-08-28,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+145723,2022-08-28,checkout_lifetime_completepayment.click.fail,"Your card was declined.",mobile
+275505,2022-08-28,checkout_annual_completepayment.click.success,NULL,desktop
+263825,2022-08-28,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+2834,2022-08-29,checkout_annual_completepayment.click.fail,"number field is required",mobile
+3225,2022-08-29,checkout_annual_completepayment.click.success,NULL,mobile
+288599,2022-08-29,checkout_annual_completepayment.click.success,NULL,desktop
+288579,2022-08-29,checkout_annual_completepayment.click.success,NULL,desktop
+288533,2022-08-29,checkout_annual_completepayment.click.success,NULL,desktop
+287688,2022-08-29,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+159772,2022-08-29,checkout_annual_completepayment.click.fail,"year field is required",desktop
+211370,2022-08-29,checkout_annual_completepayment.click.fail,"number field is required",mobile
+288793,2022-08-30,checkout_monthly_completepayment.click.success,NULL,desktop
+288771,2022-08-30,checkout_annual_completepayment.click.success,NULL,desktop
+288690,2022-08-30,checkout_annual_completepayment.click.success,NULL,desktop
+288663,2022-08-30,checkout_lifetime_completepayment.click.success,NULL,desktop
+288637,2022-08-30,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+11327,2022-08-30,checkout_annual_completepayment.click.success,NULL,desktop
+145230,2022-08-30,checkout_annual_completepayment.click.success,NULL,desktop
+147045,2022-08-30,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+147178,2022-08-30,checkout_annual_completepayment.click.fail,"year field is required",mobile
+249940,2022-08-30,checkout_quarterly_completepayment.click.fail,"number field is required",desktop
+253904,2022-08-30,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+288898,2022-08-31,checkout_monthly_completepayment.click.success,NULL,desktop
+288808,2022-08-31,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+4723,2022-08-31,checkout_annual_completepayment.click.fail,"year field is required",desktop
+5782,2022-08-31,checkout_annual_completepayment.click.fail,"zip field is required",mobile
+7179,2022-08-31,checkout_annual_completepayment.click.fail,"number field is required",desktop
+9169,2022-08-31,checkout_annual_completepayment.click.success,NULL,desktop
+287490,2022-08-31,checkout_annual_completepayment.click.success,NULL,desktop
+12270,2022-08-31,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+13501,2022-08-31,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",mobile
+284927,2022-08-31,checkout_annual_completepayment.click.fail,"number field is required",desktop
+143656,2022-08-31,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+146397,2022-08-31,checkout_annual_completepayment.click.fail,"year field is required",mobile
+147666,2022-08-31,checkout_annual_completepayment.click.success,NULL,desktop
+156038,2022-08-31,checkout_annual_completepayment.click.fail,"number field is required",desktop
+167392,2022-08-31,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+274166,2022-08-31,checkout_quarterly_completepayment.click.success,NULL,desktop
+288613,2022-09-01,checkout_quarterly_completepayment.click.fail,"zip field is required",desktop
+289066,2022-09-01,checkout_annual_completepayment.click.success,NULL,desktop
+289045,2022-09-01,checkout_data-strategy_completepayment.click.fail,"Your card was declined.",desktop
+289036,2022-09-01,checkout_data-strategy_completepayment.click.success,NULL,desktop
+288773,2022-09-01,checkout_annual_completepayment.click.success,NULL,desktop
+288487,2022-09-01,checkout_annual_completepayment.click.success,NULL,desktop
+287975,2022-09-01,checkout_monthly_completepayment.click.success,NULL,desktop
+143454,2022-09-01,checkout_monthly_completepayment.click.fail,"zip field is required",desktop
+184533,2022-09-01,checkout_quarterly_completepayment.click.fail,"number field is required",desktop
+269130,2022-09-01,checkout_annual_completepayment.click.success,NULL,desktop
+289210,2022-09-02,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+289121,2022-09-02,checkout_annual_completepayment.click.success,NULL,desktop
+289096,2022-09-02,checkout_monthly_completepayment.click.success,NULL,desktop
+10313,2022-09-02,checkout_monthly_completepayment.click.fail,"State field is required",desktop
+289271,2022-09-03,checkout_annual_completepayment.click.fail,"number field is required",mobile
+289240,2022-09-03,checkout_annual_completepayment.click.fail,"year field is required",mobile
+289177,2022-09-03,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+288809,2022-09-04,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",mobile
+289468,2022-09-05,checkout_annual_completepayment.click.success,NULL,mobile
+288691,2022-09-05,checkout_annual_completepayment.click.success,NULL,desktop
+288665,2022-09-05,checkout_annual_completepayment.click.fail,"year field is required",desktop
+289666,2022-09-06,checkout_annual_completepayment.click.success,NULL,desktop
+289609,2022-09-06,checkout_monthly_completepayment.click.success,NULL,desktop
+289580,2022-09-06,checkout_monthly_completepayment.click.success,NULL,desktop
+289526,2022-09-06,checkout_monthly_completepayment.click.success,NULL,desktop
+1864,2022-09-06,checkout_annual_completepayment.click.fail,"year field is required",mobile
+288884,2022-09-06,checkout_annual_completepayment.click.fail,"year field is required",desktop
+111461,2022-09-06,checkout_monthly_completepayment.click.fail,"Your card has expired.",desktop
+161346,2022-09-06,checkout_annual_completepayment.click.success,NULL,desktop
+279562,2022-09-06,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+1,2022-09-07,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+289827,2022-09-07,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+289802,2022-09-07,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+289717,2022-09-07,checkout_data-strategy_completepayment.click.fail,"Your card was declined.",desktop
+289711,2022-09-07,checkout_annual_completepayment.click.fail,"State field is required",desktop
+289623,2022-09-07,checkout_monthly_completepayment.click.fail,"month field is required",mobile
+289517,2022-09-07,checkout_monthly_completepayment.click.success,NULL,desktop
+288909,2022-09-07,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+279923,2022-09-07,checkout_annual_completepayment.click.fail,"number field is required",mobile
+163415,2022-09-07,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+246083,2022-09-08,checkout_annual_completepayment.click.fail,"number field is required",mobile
+289881,2022-09-08,checkout_quarterly_completepayment.click.fail,"number field is required",desktop
+1436,2022-09-08,checkout_monthly_completepayment.click.fail,"Your card was declined.",mobile
+289047,2022-09-08,checkout_annual_completepayment.click.success,NULL,desktop
+289003,2022-09-08,checkout_monthly_completepayment.click.fail,"Your card is not supported.",desktop
+211124,2022-09-08,checkout_monthly_completepayment.click.fail,"zip field is required",desktop
+283510,2022-09-08,checkout_monthly_completepayment.click.success,NULL,desktop
+157722,2022-09-08,checkout_monthly_completepayment.click.success,NULL,desktop
+172788,2022-09-08,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+289824,2022-09-09,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+289538,2022-09-09,checkout_annual_completepayment.click.fail,"State field is required",desktop
+289503,2022-09-09,checkout_annual_completepayment.click.success,NULL,desktop
+287158,2022-09-09,checkout_monthly_completepayment.click.success,NULL,desktop
+282221,2022-09-09,checkout_annual_completepayment.click.success,NULL,desktop
+291349,2022-09-10,checkout_business_completepayment.click.fail,"number field is required",desktop
+289798,2022-09-10,checkout_monthly_completepayment.click.success,NULL,desktop
+289339,2022-09-10,checkout_annual_completepayment.click.success,NULL,desktop
+217976,2022-09-10,checkout_monthly_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+20664,2022-09-10,checkout_quarterly_completepayment.click.fail,"Your card was declined.",desktop
+163914,2022-09-10,checkout_monthly_completepayment.click.fail,"month field is required",desktop
+290303,2022-09-11,checkout_annual_completepayment.click.fail,"number field is required",mobile
+290226,2022-09-11,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+43604,2022-09-11,checkout_annual_completepayment.click.success,NULL,mobile
+163918,2022-09-11,checkout_quarterly_completepayment.click.fail,"number field is required",desktop
+290426,2022-09-12,checkout_annual_completepayment.click.success,NULL,desktop
+290374,2022-09-12,checkout_annual_completepayment.click.fail,"year field is required",desktop
+290353,2022-09-12,checkout_data-strategy_completepayment.click.success,NULL,desktop
+290350,2022-09-12,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+3747,2022-09-12,checkout_annual_completepayment.click.fail,"year field is required",desktop
+156680,2022-09-12,checkout_lifetime_completepayment.click.fail,"number field is required",desktop
+190742,2022-09-12,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+290553,2022-09-13,checkout_annual_completepayment.click.fail,"number field is required",mobile
+273323,2022-09-14,checkout_annual_completepayment.click.fail,"year field is required",desktop
+293165,2022-09-14,checkout_monthly_completepayment.click.fail,"Your card was declined. Your request was in live mode, but used a known test card.",desktop
+175519,2022-09-14,checkout_annual_completepayment.click.success,NULL,desktop
+263783,2022-09-15,checkout_monthly_completepayment.click.success,NULL,desktop
+290775,2022-09-15,checkout_monthly_completepayment.click.fail,"zip field is required",desktop
+172064,2022-09-15,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+263211,2022-09-16,checkout_annual_completepayment.click.fail,"year field is required",desktop
+290991,2022-09-16,checkout_annual_completepayment.click.success,NULL,desktop
+290917,2022-09-16,checkout_monthly_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+291100,2022-09-17,checkout_data-strategy_completepayment.click.fail,"Your card was declined.",desktop
+291059,2022-09-17,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+291024,2022-09-17,checkout_annual_completepayment.click.fail,"year field is required",mobile
+170750,2022-09-17,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+291148,2022-09-18,checkout_data-strategy_completepayment.click.success,NULL,desktop
+291116,2022-09-18,checkout_annual_completepayment.click.fail,"number field is required",desktop
+290953,2022-09-18,checkout_annual_completepayment.click.fail,"State field is required",desktop
+289244,2022-09-18,checkout_monthly_completepayment.click.success,NULL,desktop
+291366,2022-09-19,checkout_annual_completepayment.click.success,NULL,desktop
+291334,2022-09-19,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+291256,2022-09-19,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291255,2022-09-19,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291165,2022-09-19,checkout_monthly_completepayment.click.fail,"lastName field is required",desktop
+271338,2022-09-19,checkout_annual_completepayment.click.success,NULL,desktop
+14357,2022-09-19,checkout_annual_completepayment.click.fail,"number field is required",mobile
+295276,2022-09-19,checkout_annual_completepayment.click.success,NULL,desktop
+284643,2022-09-19,checkout_monthly_completepayment.click.success,NULL,desktop
+33495,2022-09-19,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+154402,2022-09-19,checkout_annual_completepayment.click.fail,"number field is required",mobile
+156409,2022-09-19,checkout_monthly_completepayment.click.success,NULL,desktop
+258349,2022-09-20,checkout_annual_completepayment.click.fail,"year field is required",desktop
+291458,2022-09-20,checkout_annual_completepayment.click.success,NULL,desktop
+291452,2022-09-20,checkout_annual_completepayment.click.success,NULL,desktop
+291419,2022-09-20,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291412,2022-09-20,checkout_monthly_completepayment.click.fail,"Your card number is incorrect.",desktop
+291404,2022-09-20,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+291402,2022-09-20,checkout_annual_completepayment.click.fail,"zip field is required",desktop
+291401,2022-09-20,checkout_quarterly_completepayment.click.success,NULL,desktop
+291398,2022-09-20,checkout_annual_completepayment.click.fail,"year field is required",mobile
+291393,2022-09-20,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291378,2022-09-20,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+291347,2022-09-20,checkout_monthly_completepayment.click.success,NULL,desktop
+246879,2022-09-20,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+290676,2022-09-20,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+289686,2022-09-20,checkout_monthly_completepayment.click.success,NULL,desktop
+289535,2022-09-20,checkout_annual_completepayment.click.fail,"year field is required",mobile
+270435,2022-09-20,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+278972,2022-09-20,checkout_annual_completepayment.click.success,NULL,mobile
+199013,2022-09-20,checkout_annual_completepayment.click.fail,"firstName field is required",desktop
+172870,2022-09-20,checkout_lifetime_completepayment.click.fail,"number field is required",desktop
+178842,2022-09-20,checkout_annual_completepayment.click.success,NULL,desktop
+291575,2022-09-21,checkout_annual_completepayment.click.success,NULL,desktop
+291565,2022-09-21,checkout_annual_completepayment.click.success,NULL,desktop
+290590,2022-09-21,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+289769,2022-09-21,checkout_monthly_completepayment.click.fail,"lastName field is required",desktop
+271465,2022-09-21,checkout_monthly_completepayment.click.fail,"2070 PayPal Buyer Revoked Pre-Approved Payment Authorization",desktop
+9289,2022-09-21,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+216694,2022-09-21,checkout_monthly_completepayment.click.success,NULL,mobile
+170743,2022-09-21,checkout_annual_completepayment.click.fail,"number field is required",desktop
+291745,2022-09-22,checkout_annual_completepayment.click.fail,"State field is required",mobile
+291743,2022-09-22,checkout_annual_completepayment.click.success,NULL,mobile
+291742,2022-09-22,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+291617,2022-09-22,checkout_annual_completepayment.click.fail,"cvv field is required",mobile
+290746,2022-09-22,checkout_monthly_completepayment.click.success,NULL,desktop
+4439,2022-09-22,checkout_monthly_completepayment.click.fail,"State field is required",desktop
+6233,2022-09-22,checkout_monthly_completepayment.click.success,NULL,desktop
+155712,2022-09-22,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+291867,2022-09-23,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291865,2022-09-23,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291864,2022-09-23,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291863,2022-09-23,checkout_monthly_completepayment.click.fail,"number field is required",mobile
+291862,2022-09-23,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291853,2022-09-23,checkout_annual_completepayment.click.fail,"State field is required",desktop
+291837,2022-09-23,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+291769,2022-09-23,checkout_annual_completepayment.click.success,NULL,desktop
+291730,2022-09-23,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+291487,2022-09-23,checkout_annual_completepayment.click.success,NULL,desktop
+291321,2022-09-23,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+290989,2022-09-23,checkout_annual_completepayment.click.success,NULL,desktop
+290920,2022-09-23,checkout_annual_completepayment.click.success,NULL,desktop
+290733,2022-09-23,checkout_annual_completepayment.click.success,NULL,desktop
+269526,2022-09-23,checkout_annual_completepayment.click.fail,"number field is required",mobile
+19193,2022-09-23,checkout_annual_completepayment.click.fail,"year field is required",desktop
+285504,2022-09-23,checkout_annual_completepayment.click.fail,"State field is required",desktop
+153034,2022-09-23,checkout_annual_completepayment.click.success,NULL,desktop
+197262,2022-09-23,checkout_annual_completepayment.click.fail,"number field is required",desktop
+291963,2022-09-24,checkout_monthly_completepayment.click.success,NULL,desktop
+291890,2022-09-24,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+291871,2022-09-24,checkout_annual_completepayment.click.fail,"year field is required",desktop
+211418,2022-09-24,checkout_annual_completepayment.click.success,NULL,desktop
+49292,2022-09-24,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+283612,2022-09-24,checkout_annual_completepayment.click.fail,"number field is required",desktop
+198334,2022-09-24,checkout_annual_completepayment.click.fail,"Your card number is incorrect.",desktop
+292061,2022-09-25,checkout_monthly_completepayment.click.success,NULL,desktop
+292055,2022-09-25,checkout_annual_completepayment.click.fail,"number field is required",mobile
+292052,2022-09-25,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291988,2022-09-25,checkout_annual_completepayment.click.success,NULL,mobile
+291984,2022-09-25,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291977,2022-09-25,checkout_annual_completepayment.click.fail,"year field is required",mobile
+18288,2022-09-25,checkout_annual_completepayment.click.fail,"lastName field is required",mobile
+56469,2022-09-25,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+64065,2022-09-25,checkout_annual_completepayment.click.success,NULL,desktop
+198890,2022-09-25,checkout_annual_completepayment.click.fail,"year field is required",mobile
+177140,2022-09-25,checkout_annual_completepayment.click.success,NULL,desktop
+292066,2022-09-26,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+292077,2022-09-26,checkout_annual_completepayment.click.success,NULL,desktop
+291998,2022-09-26,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+253772,2022-09-26,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+292086,2022-09-26,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+291725,2022-09-26,checkout_annual_completepayment.click.fail,"State field is required",desktop
+292114,2022-09-26,checkout_annual_completepayment.click.fail,"year field is required",desktop
+292118,2022-09-26,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+292139,2022-09-26,checkout_data-strategy_completepayment.click.success,NULL,desktop
+291425,2022-09-26,checkout_annual_completepayment.click.success,NULL,desktop
+60411,2022-09-26,checkout_annual_completepayment.click.fail,"month field is required",desktop
+167101,2022-09-26,checkout_annual_completepayment.click.fail,"year field is required",desktop
+173450,2022-09-26,checkout_data-strategy_completepayment.click.success,NULL,desktop
+292101,2022-09-27,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+292177,2022-09-27,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",mobile
+292374,2022-09-27,checkout_annual_completepayment.click.fail,"Your card is not supported.",mobile
+263886,2022-09-27,checkout_annual_completepayment.click.fail,"number field is required",mobile
+265685,2022-09-27,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+229970,2022-09-27,checkout_annual_completepayment.click.success,NULL,mobile
+286723,2022-09-27,checkout_annual_completepayment.click.success,NULL,desktop
+158211,2022-09-27,checkout_annual_completepayment.click.fail,"year field is required",mobile
+171448,2022-09-27,checkout_lifetime_completepayment.click.fail,"year field is required",desktop
+172599,2022-09-27,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+253353,2022-09-28,checkout_monthly_completepayment.click.fail,"lastName field is required",mobile
+291744,2022-09-28,checkout_annual_completepayment.click.fail,"year field is required",desktop
+291589,2022-09-28,checkout_annual_completepayment.click.fail,"year field is required",desktop
+291306,2022-09-28,checkout_monthly_completepayment.click.success,NULL,desktop
+292385,2022-09-28,checkout_annual_completepayment.click.success,NULL,desktop
+292402,2022-09-28,checkout_annual_completepayment.click.fail,"month field is required",desktop
+292406,2022-09-28,checkout_annual_completepayment.click.fail,"Your card number is incorrect.",desktop
+292424,2022-09-28,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+292428,2022-09-28,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+292438,2022-09-28,checkout_annual_completepayment.click.fail,"year field is required",desktop
+292453,2022-09-28,checkout_annual_completepayment.click.success,NULL,desktop
+292472,2022-09-28,checkout_annual_completepayment.click.fail,"number field is required",mobile
+269110,2022-09-28,checkout_annual_completepayment.click.success,NULL,desktop
+230669,2022-09-28,checkout_annual_completepayment.click.fail,"year field is required",desktop
+277724,2022-09-28,checkout_annual_completepayment.click.success,NULL,desktop
+279229,2022-09-28,checkout_annual_completepayment.click.fail,"number field is required",mobile
+122477,2022-09-28,checkout_annual_completepayment.click.fail,"State field is required",desktop
+149213,2022-09-28,checkout_annual_completepayment.click.success,NULL,desktop
+172867,2022-09-28,checkout_annual_completepayment.click.success,NULL,desktop
+174830,2022-09-28,checkout_annual_completepayment.click.fail,"year field is required",mobile
+290929,2022-09-29,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+292394,2022-09-29,checkout_monthly_completepayment.click.fail,"month field is required",desktop
+290465,2022-09-29,checkout_annual_completepayment.click.success,NULL,desktop
+292486,2022-09-29,checkout_annual_completepayment.click.fail,"month field is required",mobile
+292492,2022-09-29,checkout_sql-for-data-science-interviews_completepayment.click.success,NULL,desktop
+289655,2022-09-29,checkout_annual_completepayment.click.fail,"zip field is required",mobile
+292496,2022-09-29,checkout_annual_completepayment.click.success,NULL,mobile
+270607,2022-09-29,checkout_annual_completepayment.click.success,NULL,desktop
+292500,2022-09-29,checkout_annual_completepayment.click.fail,"number field is required",mobile
+271197,2022-09-29,checkout_annual_completepayment.click.success,NULL,desktop
+292524,2022-09-29,checkout_annual_completepayment.click.fail,"year field is required",mobile
+292528,2022-09-29,checkout_annual_completepayment.click.fail,"number field is required",mobile
+240591,2022-09-29,checkout_annual_completepayment.click.fail,"year field is required",desktop
+292538,2022-09-29,checkout_annual_completepayment.click.fail,"year field is required",desktop
+292560,2022-09-29,checkout_annual_completepayment.click.fail,"Your card has insufficient funds.",desktop
+292564,2022-09-29,checkout_annual_completepayment.click.fail,"year field is required",mobile
+292573,2022-09-29,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+292574,2022-09-29,checkout_annual_completepayment.click.success,NULL,mobile
+292576,2022-09-29,checkout_annual_completepayment.click.success,NULL,desktop
+292578,2022-09-29,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+292580,2022-09-29,checkout_annual_completepayment.click.success,NULL,desktop
+292589,2022-09-29,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+292590,2022-09-29,checkout_data-strategy_completepayment.click.success,NULL,desktop
+292596,2022-09-29,checkout_annual_completepayment.click.fail,"number field is required",desktop
+292601,2022-09-29,checkout_annual_completepayment.click.fail,"year field is required",desktop
+292614,2022-09-29,checkout_annual_completepayment.click.success,NULL,desktop
+4016,2022-09-29,checkout_coins_completepayment.click.success,NULL,desktop
+275445,2022-09-29,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+232527,2022-09-29,checkout_annual_completepayment.click.fail,"year field is required",desktop
+276860,2022-09-29,checkout_annual_completepayment.click.success,NULL,desktop
+231152,2022-09-29,checkout_annual_completepayment.click.fail,"zip field is required",desktop
+279535,2022-09-29,checkout_annual_completepayment.click.fail,"year field is required",mobile
+280373,2022-09-29,checkout_annual_completepayment.click.success,NULL,mobile
+292073,2022-09-30,checkout_annual_completepayment.click.fail,"number field is required",mobile
+291823,2022-09-30,checkout_annual_completepayment.click.fail,"year field is required",mobile
+291789,2022-09-30,checkout_annual_completepayment.click.success,NULL,desktop
+255149,2022-09-30,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",mobile
+292113,2022-09-30,checkout_annual_completepayment.click.success,NULL,desktop
+259258,2022-09-30,checkout_annual_completepayment.click.fail,"year field is required",desktop
+259846,2022-09-30,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+270216,2022-09-30,checkout_annual_completepayment.click.success,NULL,desktop
+292628,2022-09-30,checkout_annual_completepayment.click.fail,"State field is required",desktop
+292629,2022-09-30,checkout_annual_completepayment.click.fail,"year field is required",desktop
+292640,2022-09-30,checkout_annual_completepayment.click.success,NULL,desktop
+292641,2022-09-30,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+292648,2022-09-30,checkout_annual_completepayment.click.success,NULL,desktop
+292653,2022-09-30,checkout_annual_completepayment.click.success,NULL,desktop
+233048,2022-09-30,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+277840,2022-09-30,checkout_annual_completepayment.click.success,NULL,desktop
+277886,2022-09-30,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+218516,2022-09-30,checkout_annual_completepayment.click.success,NULL,mobile
+280345,2022-09-30,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+67377,2022-09-30,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+292818,2022-10-01,checkout_monthly_completepayment.click.fail,"month field is required",desktop
+292862,2022-10-01,checkout_annual_completepayment.click.fail,"year field is required",mobile
+292388,2022-10-02,checkout_annual_completepayment.click.fail,"Your card is not supported.",desktop
+292815,2022-10-02,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+292920,2022-10-02,checkout_annual_completepayment.click.fail,"State field is required",desktop
+292931,2022-10-02,checkout_monthly_completepayment.click.success,NULL,desktop
+293002,2022-10-02,checkout_annual_completepayment.click.success,NULL,desktop
+183901,2022-10-02,checkout_annual_completepayment.click.success,NULL,desktop
+290843,2022-10-03,checkout_monthly_completepayment.click.success,NULL,desktop
+270179,2022-10-03,checkout_monthly_completepayment.click.success,NULL,desktop
+288839,2022-10-03,checkout_annual_completepayment.click.fail,"State field is required",mobile
+292606,2022-10-03,checkout_annual_completepayment.click.success,NULL,desktop
+292720,2022-10-03,checkout_annual_completepayment.click.fail,"year field is required",desktop
+293126,2022-10-03,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+156660,2022-10-03,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+289723,2022-10-04,checkout_annual_completepayment.click.fail,"number field is required",mobile
+292493,2022-10-04,checkout_annual_completepayment.click.fail,"year field is required",mobile
+293214,2022-10-04,checkout_monthly_completepayment.click.success,NULL,desktop
+293251,2022-10-04,checkout_quarterly_completepayment.click.success,NULL,desktop
+293259,2022-10-04,checkout_data-strategy_completepayment.click.fail,"number field is required",desktop
+293298,2022-10-04,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+550168,2022-10-04,checkout_annual_completepayment.click.fail,"number field is required",desktop
+293274,2022-10-05,checkout_annual_completepayment.click.success,NULL,mobile
+293345,2022-10-05,checkout_annual_completepayment.click.fail,"number field is required",desktop
+293356,2022-10-05,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+294507,2022-10-05,checkout_annual_completepayment.click.fail,"Your card's security code is invalid.",desktop
+167554,2022-10-05,checkout_annual_completepayment.click.fail,"month field is required",mobile
+288719,2022-10-06,checkout_monthly_completepayment.click.fail,"number field is required",mobile
+293207,2022-10-06,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+284845,2022-10-06,checkout_coins_completepayment.click.fail,"number field is required",desktop
+124301,2022-10-06,checkout_monthly_completepayment.click.fail,"number field is required",mobile
+427108,2022-10-06,checkout_monthly_completepayment.click.success,NULL,desktop
+5554,2022-10-07,checkout_annual_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+293627,2022-10-07,checkout_annual_completepayment.click.success,NULL,desktop
+293005,2022-10-08,checkout_lifetime_completepayment.click.fail,"number field is required",desktop
+293879,2022-10-08,checkout_data-strategy_completepayment.click.success,NULL,mobile
+293805,2022-10-09,checkout_annual_completepayment.click.fail,"year field is required",desktop
+293898,2022-10-09,checkout_annual_completepayment.click.fail,"Your card has expired.",desktop
+293951,2022-10-10,checkout_annual_completepayment.click.success,NULL,desktop
+294006,2022-10-10,checkout_monthly_completepayment.click.fail,"Your card is not supported.",mobile
+294020,2022-10-10,checkout_monthly_completepayment.click.success,NULL,desktop
+294163,2022-10-10,checkout_data-strategy_completepayment.click.success,NULL,desktop
+294185,2022-10-10,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+172289,2022-10-10,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+292475,2022-10-11,checkout_annual_completepayment.click.fail,"number field is required",desktop
+288021,2022-10-11,checkout_annual_completepayment.click.fail,"year field is required",desktop
+294227,2022-10-11,checkout_annual_completepayment.click.success,NULL,desktop
+294273,2022-10-11,checkout_lifetime_completepayment.click.fail,"year field is required",desktop
+294608,2022-10-11,checkout_annual_completepayment.click.fail,"year field is required",desktop
+149639,2022-10-11,checkout_coins_completepayment.click.fail,"number field is required",mobile
+180153,2022-10-11,checkout_monthly_completepayment.click.fail,"Your card was declined.",desktop
+292048,2022-10-12,checkout_quarterly_completepayment.click.success,NULL,desktop
+248871,2022-10-12,checkout_annual_completepayment.click.success,NULL,desktop
+291061,2022-10-12,checkout_monthly_completepayment.click.fail,"year field is required",mobile
+233714,2022-10-12,checkout_monthly_completepayment.click.success,NULL,desktop
+127258,2022-10-12,checkout_monthly_completepayment.click.success,NULL,desktop
+280897,2022-10-12,checkout_monthly_completepayment.click.success,NULL,desktop
+293303,2022-10-13,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+293859,2022-10-13,checkout_annual_completepayment.click.success,NULL,desktop
+294338,2022-10-13,checkout_annual_completepayment.click.fail,"Your card is not supported.",desktop
+294589,2022-10-13,checkout_annual_completepayment.click.fail,"number field is required",desktop
+294590,2022-10-13,checkout_monthly_completepayment.click.success,NULL,desktop
+294618,2022-10-13,checkout_annual_completepayment.click.success,NULL,desktop
+294625,2022-10-13,checkout_annual_completepayment.click.fail,"number field is required",mobile
+289630,2022-10-14,checkout_monthly_completepayment.click.fail,"number field is required",mobile
+294629,2022-10-14,checkout_monthly_completepayment.click.success,NULL,desktop
+292499,2022-10-15,checkout_annual_completepayment.click.success,NULL,mobile
+288948,2022-10-15,checkout_lifetime_completepayment.click.fail,"lastName field is required",desktop
+294792,2022-10-15,checkout_annual_completepayment.click.fail,"Your card is not supported.",mobile
+294852,2022-10-15,checkout_annual_completepayment.click.fail,"number field is required",mobile
+293955,2022-10-17,checkout_annual_completepayment.click.fail,"number field is required",mobile
+294936,2022-10-17,checkout_monthly_completepayment.click.fail,"number field is required",desktop
+294949,2022-10-17,checkout_annual_completepayment.click.success,NULL,desktop
+147305,2022-10-17,checkout_annual_completepayment.click.success,NULL,desktop
+197346,2022-10-17,checkout_coins_completepayment.click.fail,"number field is required",mobile
+289255,2022-10-18,checkout_quarterly_completepayment.click.fail,"year field is required",desktop
+293539,2022-10-18,checkout_annual_completepayment.click.success,NULL,desktop
+293542,2022-10-18,checkout_monthly_completepayment.click.success,NULL,desktop
+294648,2022-10-18,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+294674,2022-10-18,checkout_monthly_completepayment.click.success,NULL,desktop
+295152,2022-10-18,checkout_monthly_completepayment.click.fail,"Your card's security code is incorrect.",desktop
+295223,2022-10-18,checkout_annual_completepayment.click.fail,"year field is required",mobile
+172487,2022-10-18,checkout_monthly_completepayment.click.fail,"month field is required",desktop
+254902,2022-10-19,checkout_annual_completepayment.click.fail,"Your card's security code is invalid.",desktop
+292369,2022-10-19,checkout_coins_completepayment.click.fail,"lastName field is required",mobile
+289823,2022-10-19,checkout_annual_completepayment.click.success,NULL,desktop
+293976,2022-10-19,checkout_annual_completepayment.click.success,NULL,desktop
+294208,2022-10-19,checkout_annual_completepayment.click.success,NULL,mobile
+295273,2022-10-19,checkout_monthly_completepayment.click.success,NULL,desktop
+295322,2022-10-19,checkout_annual_completepayment.click.success,NULL,desktop
+295355,2022-10-19,checkout_annual_completepayment.click.success,NULL,desktop
+548594,2022-10-19,checkout_monthly_completepayment.click.fail,"Your card's security code is invalid.",mobile
+291088,2022-10-20,checkout_annual_completepayment.click.fail,"cvv field is required",desktop
+274836,2022-10-20,checkout_annual_completepayment.click.success,NULL,desktop
+275215,2022-10-20,checkout_annual_completepayment.click.success,NULL,mobile
+5470,2022-10-20,checkout_annual_completepayment.click.success,NULL,mobile
+7752,2022-10-20,checkout_annual_completepayment.click.fail,"year field is required",desktop
+279735,2022-10-20,checkout_annual_completepayment.click.success,NULL,desktop
+17823,2022-10-20,checkout_annual_completepayment.click.success,NULL,desktop
+21966,2022-10-20,checkout_annual_completepayment.click.fail,"month field is required",mobile
+143012,2022-10-20,checkout_annual_completepayment.click.fail,"number field is required",mobile
+168223,2022-10-20,checkout_annual_completepayment.click.success,NULL,mobile
+1392,2022-10-21,checkout_annual_completepayment.click.fail,"Your card was declined.",mobile
+2104,2022-10-21,checkout_annual_completepayment.click.success,NULL,desktop
+3426,2022-10-21,checkout_annual_completepayment.click.fail,"year field is required",desktop
+14491,2022-10-21,checkout_annual_completepayment.click.success,NULL,mobile
+18531,2022-10-21,checkout_annual_completepayment.click.success,NULL,desktop
+295625,2022-10-21,checkout_data-strategy_completepayment.click.success,NULL,desktop
+32555,2022-10-21,checkout_monthly_completepayment.click.fail,"Your card does not support this type of purchase.",desktop
+151197,2022-10-21,checkout_annual_completepayment.click.fail,"month field is required",mobile
+156776,2022-10-21,checkout_annual_completepayment.click.fail,"year field is required",desktop
+295714,2022-10-22,checkout_annual_completepayment.click.fail,"Your card's security code is incorrect.",mobile
+254513,2022-10-22,checkout_annual_completepayment.click.success,NULL,desktop
+5111,2022-10-22,checkout_annual_completepayment.click.success,NULL,desktop
+294948,2022-10-22,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+295164,2022-10-22,checkout_annual_completepayment.click.fail,"number field is required",mobile
+295684,2022-10-22,checkout_annual_completepayment.click.fail,"year field is required",desktop
+295653,2022-10-22,checkout_sql-for-data-science-interviews_completepayment.click.success,NULL,mobile
+295655,2022-10-22,checkout_annual_completepayment.click.success,NULL,desktop
+295859,2022-10-23,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+295796,2022-10-23,checkout_data-strategy_completepayment.click.success,NULL,mobile
+295781,2022-10-23,checkout_annual_completepayment.click.success,NULL,desktop
+203014,2022-10-24,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+258161,2022-10-24,checkout_data-strategy_completepayment.click.fail,"year field is required",desktop
+269660,2022-10-24,checkout_monthly_completepayment.click.success,NULL,desktop
+295972,2022-10-24,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+295832,2022-10-24,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+453985,2022-10-24,checkout_monthly_completepayment.click.fail,"year field is required",desktop
+130021,2022-10-25,checkout_annual_completepayment.click.fail,"number field is required",desktop
+296160,2022-10-25,checkout_annual_completepayment.click.fail,"Your card is not supported.",desktop
+296124,2022-10-25,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+296084,2022-10-25,checkout_annual_completepayment.click.fail,"number field is required",desktop
+296070,2022-10-25,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
+287573,2022-10-25,checkout_monthly_completepayment.click.fail,"Your card has insufficient funds.",desktop
+295803,2022-10-25,checkout_coins_completepayment.click.fail,"2046 Declined",desktop
+23287,2022-10-26,checkout_annual_completepayment.click.fail,"lastName field is required",desktop
+266577,2022-10-26,checkout_monthly_completepayment.click.success,NULL,desktop
+296254,2022-10-26,checkout_annual_completepayment.click.fail,"Your card was declined.",desktop
