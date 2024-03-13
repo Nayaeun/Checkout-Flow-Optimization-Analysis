@@ -68,10 +68,11 @@ c.action_date BETWEEN '2022-07-01' AND '2023-01-31'
 ORDER BY c.action_date;
 
 
-
 -- 8. Select pertinent columns containing error detail and device utilized during the process
 SELECT user_id, action_date, action_name, error_message, device
 FROM checkout_actions
 WHERE action_name LIKE '%checkout%' AND action_date BETWEEN '2022-07-01' and '2023-01-31'
 GROUP BY user_id
 ORDER BY action_date
+
+-- Export two csv files, checkout_steps.csv and checkout_error.csv
