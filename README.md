@@ -39,6 +39,7 @@ The card number input might be challenging to spot on mobile displays, leading u
 Several critical aspects of improvement are possible concerning these specified areas.
 
 1. Webpage Interface Enhancements
+
 A webpage interface is pivotal in guiding user interaction — influencing their decisions, and ensuring a smooth, frictionless experience. When users encounter obstacles or confusion during their interaction — especially during critical processes like checkout — the likelihood of abandoning the task rises significantly.
 
 The design intricacies of the checkout screen can be a decisive factor in the user’s journey, determining whether they complete the purchase or leave midway. Certain critical elements, like input fields for card details, can appear constrained or be overshadowed by other components on smaller devices or screens. This can lead to users needing to enter the necessary information, leading to errors or transaction failures.
